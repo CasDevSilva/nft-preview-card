@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CasDevSilva/nft-preview-card)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://magnificent-kelpie-70c149.netlify.app/)
 
 ## My process
 
